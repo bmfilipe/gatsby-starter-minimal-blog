@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `:.: brunofilipe :.: - Presente e Futuro`,
   },
   plugins: [
     {
@@ -16,14 +16,14 @@ module.exports = {
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `Quem Sou`,
             slug: `/about`,
           },
         ],
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/bmfilipe`,
           },
           {
             name: `Instagram`,
