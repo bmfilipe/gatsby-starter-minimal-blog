@@ -17,13 +17,17 @@ module.exports = {
           },
           {
             title: `Quem Sou`,
-            slug: `/about`,
+            slug: `/quemsou`,
           },
         ],
         externalLinks: [
           {
             name: `Twitter`,
             url: `https://twitter.com/bmfilipe`,
+          },
+          {
+            name: `Facebook`,
+            url: `https://facebook.com/bmfilipe`,
           },
           {
             name: `Instagram`,
